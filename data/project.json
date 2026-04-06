@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "martinaalvarez-lab",
+    "is_private": false,
+    "title": "Radio Program Latino USA: Conversations in Jazz and Literature",
+    "description": "In this 30 minute radio program, Maria Hinojosa hosts an edition covering a broad range of topics from the Bush Administration and its relationship with Latino communities, Latino Jazz, and Uruguayan literary works. The 2001 episode speaks on U.S.-Cuban relations, U.S.-Mexican relations, the misrepresentation of Puerto Rican communities, as well as the internal struggles that Latinos face within the U.S. concerning hate crimes. John Ashcroft’s confirmation as Attorney General was discussed as a major disappointment for Latino political organizations. A segment on Jazz calls for awareness of Latino representation within the music genre. Fernando Gonzales explores a Pan-Latin view on Jazz that serves as the future of music and as a soundtrack for the nation of immigrants. The show finishes with Eduardo Galeano who speaks on duality and overturned assumptions. The Open Veins of Latin American and Upside Down: A Primer for the Looking Glass World are the books discussed within the segment. \n",
+    "language": "en",
+    "slug": "LatinoUSA",
+    "creator": "martinaalvarez-lab",
+    "authors": "Martina Alvarez",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-04-06T23:52:27.698Z",
+    "updated_at": "2026-04-06T23:52:27.698Z"
   }
 }
