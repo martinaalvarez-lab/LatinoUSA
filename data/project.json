@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "martinaalvarez-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/235565422?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "martinaalvarez-lab",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-04-06T23:52:27.698Z",
-    "updated_at": "2026-04-06T23:52:27.698Z"
-  }
+    "updated_at": "2026-04-06T23:52:27.698Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "04d13d91-616f-4af0-af3e-3f8f86703c3f": {
+      "content": [],
+      "created_at": "2026-04-06T23:52:27.717Z",
+      "created_by": "martinaalvarez-lab",
+      "title": "Radio Program Latino USA: Conversations in Jazz and Literature",
+      "updated_at": "2026-04-06T23:52:27.717Z",
+      "updated_by": "martinaalvarez-lab",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "04d13d91-616f-4af0-af3e-3f8f86703c3f"
+  ]
 }
