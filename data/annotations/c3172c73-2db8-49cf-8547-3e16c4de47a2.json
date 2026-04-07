@@ -23,7 +23,7 @@
     },
     {
       "start_time": 0,
-      "end_time": 0,
+      "end_time": 1200,
       "annotation": [
         {
           "type": "paragraph",
