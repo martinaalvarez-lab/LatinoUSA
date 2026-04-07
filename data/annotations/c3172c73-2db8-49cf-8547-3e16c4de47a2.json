@@ -1,5 +1,27 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Latino USA, the radio journal of news and culture."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d17fc15e-a4cd-4952-89cb-c69f59608913"
+    }
+  ],
   "set": "Default",
   "event_id": "b0e7786e-5f49-468f-ae4f-ab0a1812e53d",
   "source_id": "6704eab8-9cc7-4301-a511-9dd8d5d41586"
