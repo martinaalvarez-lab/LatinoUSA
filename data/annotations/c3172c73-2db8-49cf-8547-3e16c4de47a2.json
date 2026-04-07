@@ -20,6 +20,31 @@
         }
       ],
       "uuid": "d17fc15e-a4cd-4952-89cb-c69f59608913"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Maria Hinojosa. This time on Latino USA, perspectives on the confirmation of John Ashcroft as the new U.S. Attorney General."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "US Department of Justice",
+          "category": "Organization"
+        }
+      ],
+      "uuid": "3d435f69-0297-45f6-a94d-9c7af506eeb2"
     }
   ],
   "set": "Default",
