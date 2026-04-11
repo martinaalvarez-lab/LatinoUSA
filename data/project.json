@@ -1,1 +1,521 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"martinaalvarez-lab","avatar_url":"https://avatars.githubusercontent.com/u/235565422?v=4","admin":true}],"project":{"github_org":"martinaalvarez-lab","is_private":false,"title":"Radio Program Latino USA: Conversations in Jazz and Literature","description":"In this 30 minute radio program, Maria Hinojosa hosts an edition covering a broad range of topics from the Bush Administration and its relationship with Latino communities, Latino Jazz, and Uruguayan literary works. The 2001 episode speaks on U.S.-Cuban relations, U.S.-Mexican relations, the misrepresentation of Puerto Rican communities, as well as the internal struggles that Latinos face within the U.S. concerning hate crimes. John Ashcroft’s confirmation as Attorney General was discussed as a major disappointment for Latino political organizations. A segment on Jazz calls for awareness of Latino representation within the music genre. Fernando Gonzales explores a Pan-Latin view on Jazz that serves as the future of music and as a soundtrack for the nation of immigrants. The show finishes with Eduardo Galeano who speaks on duality and overturned assumptions. The Open Veins of Latin American and Upside Down: A Primer for the Looking Glass World are the books discussed within the segment. \n","language":"en","slug":"LatinoUSA","creator":"martinaalvarez-lab","authors":"Martina Alvarez","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"Speaker","color":"#ADFFD9"},{"category":"People","color":"#ADFEFF"},{"category":"Organization","color":"#99E6FF"},{"category":"Geographic","color":"#88C9F2"},{"category":"Subject","color":"#99AFF2"},{"category":"Communities","color":"#B3B3E6"},{"category":"Dates","color":"#C195DB"},{"color":"#CBE364","category":"Uncategorized"}],"tags":[{"tag":"Maria Hinojosa","category":"Speaker"},{"tag":"Eduardo Galeano","category":"Speaker"},{"tag":"David Alvarez","category":"Speaker"},{"tag":"Lakshmi Singh","category":"Speaker"},{"tag":"Lisette Olmos","category":"Speaker"},{"tag":"Catalina Reyes","category":"Speaker"},{"tag":"Roberto Mondragon","category":"Speaker"},{"tag":"Pete Suazo","category":"Speaker"},{"tag":"Kat Snow","category":"Speaker"},{"tag":"Alex Avila","category":"Speaker"},{"tag":"Manuel Miraval","category":"Speaker"},{"tag":"Maria Martin","category":"Speaker"},{"tag":"Marisa De Mayo","category":"Speaker"},{"tag":"Cecilia Munoz","category":"Speaker"},{"tag":"Tony Ramirez","category":"Speaker"},{"tag":"Cristina Lindal","category":"Speaker"},{"tag":"Angelo Falcon","category":"Speaker"},{"tag":"Fernando Gonzalez","category":"Speaker"},{"tag":"Jean Paul Sartre","category":"People"},{"tag":"Wynton Marsalis","category":"People"},{"tag":"David Sanchez","category":"People"},{"tag":"Danilo Perez","category":"People"},{"tag":"Ken Burns","category":"People"},{"tag":"Silvestre Reyes","category":"People"},{"tag":"Richard Paez","category":"People"},{"tag":"Sonia Sotomayor","category":"People"},{"tag":"George W Bush","category":"People"},{"tag":"Kenneth Pruitt","category":"People"},{"tag":"Larry Gonzalez","category":"People"},{"tag":"Colin Powell","category":"People"},{"tag":"Jorge Castaneda","category":"People"},{"tag":"Jerry Roll Morton","category":"People"},{"tag":"Mario Bauza","category":"People"},{"tag":"Tito Puente","category":"People"},{"tag":"Arturo Chico OFarrill","category":"People"},{"tag":"Immigration and Naturalization Service","category":"Organization"},{"tag":"Institute for Puerto Rican Policy US","category":"Organization"},{"tag":"International Monetary Fund","category":"Organization"},{"tag":"League of United Latin American Citizens","category":"Organization"},{"tag":"Mexican American Legal Defense and Educational Fund","category":"Organization"},{"tag":"National Association of Latino Elected Officials","category":"Organization"},{"tag":"National Council of La Raza","category":"Organization"},{"tag":"National Puerto Rican Coalition","category":"Organization"},{"tag":"US Department of Justice","category":"Organization"},{"tag":"United States General Accounting Office","category":"Organization"},{"tag":"United States Court of Appeals 9th Circuit","category":"Organization"},{"tag":"United States","category":"Geographic"},{"tag":"Mexico","category":"Geographic"},{"tag":"Puerto Rico","category":"Geographic"},{"tag":"Washington DC","category":"Geographic"},{"tag":"Albuquerque NM","category":"Geographic"},{"tag":"Austin TX","category":"Geographic"},{"tag":"Haiti","category":"Geographic"},{"tag":"Writer","category":"Subject"},{"tag":"Culture in Literature","category":"Subject"},{"tag":"Jazz","category":"Subject"},{"tag":"United States Mexico Relations","category":"Subject"},{"tag":"Policy","category":"Subject"},{"tag":"Immigration","category":"Subject"},{"tag":"Sanctions","category":"Subject"},{"tag":"Census","category":"Subject"},{"tag":"Redistricting","category":"Subject"},{"tag":"Land Grant","category":"Subject"},{"tag":"Hate Crime","category":"Subject"},{"tag":"Olympics","category":"Subject"},{"tag":"NBC","category":"Subject"},{"tag":"Law & Order Special Victims Unit","category":"Subject"},{"tag":"Representation","category":"Subject"},{"tag":"First Amendment","category":"Subject"},{"tag":"Racial Profiling","category":"Subject"},{"tag":"Civil Rights","category":"Subject"},{"tag":"Gun Control","category":"Subject"},{"tag":"Abortion","category":"Subject"},{"tag":"History of Jazz","category":"Subject"},{"tag":"Latin America","category":"Subject"},{"tag":"Race","category":"Subject"},{"tag":"Nahuatl","category":"Subject"},{"tag":"Zapotec","category":"Subject"},{"tag":"United States Caribbean Sea Frontier","category":"Subject"},{"tag":"US Hispanics","category":"Communities"},{"tag":"Puerto Ricans","category":"Communities"},{"tag":"LGBT Community","category":"Communities"},{"tag":"1992","category":"Dates"},{"tag":"2002","category":"Dates"},{"tag":"2003","category":"Dates"},{"category":"Uncategorized","tag":"Introduction"},{"category":"Uncategorized","tag":"music"},{"category":"Uncategorized","tag":"Program Outro"},{"category":"People","tag":"Jon Ashcroft"},{"category":"Geographic","tag":"Washington (DC)"},{"category":"People","tag":"George Bush"},{"category":"Geographic","tag":"Cuba"},{"category":"People","tag":"Vicente Fox"},{"category":"Organization","tag":"National Association of Latino-Elected Officials"},{"category":"Geographic","tag":"Salt Lake City UT"},{"category":"Geographic","tag":"Utah"},{"category":"People","tag":"Marisa de Mayo"},{"category":"People","tag":"Raul Yzaguirre"},{"category":"People","tag":"Cecilia Muñoz"},{"category":"Subject","tag":"Law and Order Special Victims Unit"},{"category":"People","tag":"Lupe Saldana"},{"category":"People","tag":"Dick Cheney"},{"category":"Geographic","tag":"Missouri"},{"category":"Geographic","tag":"St Louis Missouri"},{"category":"Geographic","tag":"Columbia Missouri"},{"category":"Organization","tag":"Institute for Puerto Rican Policy (US)"},{"category":"Subject","tag":"Commercialization"},{"category":"Subject","tag":"Latin Jazz"}]},"created_at":"2026-04-06T23:52:27.698Z","updated_at":"2026-04-07T19:59:37.270Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"04d13d91-616f-4af0-af3e-3f8f86703c3f":{"content":[],"created_at":"2026-04-06T23:52:27.717Z","created_by":"martinaalvarez-lab","title":"Radio Program Latino USA: Conversations in Jazz and Literature","updated_at":"2026-04-06T23:52:27.717Z","updated_by":"martinaalvarez-lab","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["04d13d91-616f-4af0-af3e-3f8f86703c3f"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "martinaalvarez-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/235565422?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "martinaalvarez-lab",
+    "is_private": false,
+    "title": "Radio Program Latino USA: Conversations in Jazz and Literature",
+    "description": "In this 30 minute radio program, Maria Hinojosa hosts an edition covering a broad range of topics from the Bush Administration and its relationship with Latino communities, Latino Jazz, and Uruguayan literary works. The 2001 episode speaks on U.S.-Cuban relations, U.S.-Mexican relations, the misrepresentation of Puerto Rican communities, as well as the internal struggles that Latinos face within the U.S. concerning hate crimes. John Ashcroft’s confirmation as Attorney General was discussed as a major disappointment for Latino political organizations. A segment on Jazz calls for awareness of Latino representation within the music genre. Fernando Gonzales explores a Pan-Latin view on Jazz that serves as the future of music and as a soundtrack for the nation of immigrants. The show finishes with Eduardo Galeano who speaks on duality and overturned assumptions. The Open Veins of Latin American and Upside Down: A Primer for the Looking Glass World are the books discussed within the segment. \n",
+    "language": "en",
+    "slug": "LatinoUSA",
+    "creator": "martinaalvarez-lab",
+    "authors": "Martina Alvarez",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Speaker",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "People",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Organization",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Geographic",
+          "color": "#88C9F2"
+        },
+        {
+          "category": "Subject",
+          "color": "#99AFF2"
+        },
+        {
+          "category": "Communities",
+          "color": "#B3B3E6"
+        },
+        {
+          "category": "Dates",
+          "color": "#C195DB"
+        },
+        {
+          "color": "#CBE364",
+          "category": "Uncategorized"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Eduardo Galeano",
+          "category": "Speaker"
+        },
+        {
+          "tag": "David Alvarez",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Lakshmi Singh",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Lisette Olmos",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Catalina Reyes",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Roberto Mondragon",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Pete Suazo",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Kat Snow",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Alex Avila",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Manuel Miraval",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Maria Martin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Marisa De Mayo",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Cecilia Munoz",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Tony Ramirez",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Cristina Lindal",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Angelo Falcon",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Fernando Gonzalez",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Jean Paul Sartre",
+          "category": "People"
+        },
+        {
+          "tag": "Wynton Marsalis",
+          "category": "People"
+        },
+        {
+          "tag": "David Sanchez",
+          "category": "People"
+        },
+        {
+          "tag": "Danilo Perez",
+          "category": "People"
+        },
+        {
+          "tag": "Ken Burns",
+          "category": "People"
+        },
+        {
+          "tag": "Silvestre Reyes",
+          "category": "People"
+        },
+        {
+          "tag": "Richard Paez",
+          "category": "People"
+        },
+        {
+          "tag": "Sonia Sotomayor",
+          "category": "People"
+        },
+        {
+          "tag": "George W Bush",
+          "category": "People"
+        },
+        {
+          "tag": "Kenneth Pruitt",
+          "category": "People"
+        },
+        {
+          "tag": "Larry Gonzalez",
+          "category": "People"
+        },
+        {
+          "tag": "Colin Powell",
+          "category": "People"
+        },
+        {
+          "tag": "Jorge Castaneda",
+          "category": "People"
+        },
+        {
+          "tag": "Jerry Roll Morton",
+          "category": "People"
+        },
+        {
+          "tag": "Mario Bauza",
+          "category": "People"
+        },
+        {
+          "tag": "Tito Puente",
+          "category": "People"
+        },
+        {
+          "tag": "Arturo Chico OFarrill",
+          "category": "People"
+        },
+        {
+          "tag": "Immigration and Naturalization Service",
+          "category": "Organization"
+        },
+        {
+          "tag": "Institute for Puerto Rican Policy US",
+          "category": "Organization"
+        },
+        {
+          "tag": "International Monetary Fund",
+          "category": "Organization"
+        },
+        {
+          "tag": "League of United Latin American Citizens",
+          "category": "Organization"
+        },
+        {
+          "tag": "Mexican American Legal Defense and Educational Fund",
+          "category": "Organization"
+        },
+        {
+          "tag": "National Association of Latino Elected Officials",
+          "category": "Organization"
+        },
+        {
+          "tag": "National Council of La Raza",
+          "category": "Organization"
+        },
+        {
+          "tag": "National Puerto Rican Coalition",
+          "category": "Organization"
+        },
+        {
+          "tag": "US Department of Justice",
+          "category": "Organization"
+        },
+        {
+          "tag": "United States General Accounting Office",
+          "category": "Organization"
+        },
+        {
+          "tag": "United States Court of Appeals 9th Circuit",
+          "category": "Organization"
+        },
+        {
+          "tag": "United States",
+          "category": "Geographic"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Geographic"
+        },
+        {
+          "tag": "Washington DC",
+          "category": "Geographic"
+        },
+        {
+          "tag": "Albuquerque NM",
+          "category": "Geographic"
+        },
+        {
+          "tag": "Austin TX",
+          "category": "Geographic"
+        },
+        {
+          "tag": "Haiti",
+          "category": "Geographic"
+        },
+        {
+          "tag": "Writer",
+          "category": "Subject"
+        },
+        {
+          "tag": "Culture in Literature",
+          "category": "Subject"
+        },
+        {
+          "tag": "Jazz",
+          "category": "Subject"
+        },
+        {
+          "tag": "United States Mexico Relations",
+          "category": "Subject"
+        },
+        {
+          "tag": "Policy",
+          "category": "Subject"
+        },
+        {
+          "tag": "Immigration",
+          "category": "Subject"
+        },
+        {
+          "tag": "Sanctions",
+          "category": "Subject"
+        },
+        {
+          "tag": "Census",
+          "category": "Subject"
+        },
+        {
+          "tag": "Redistricting",
+          "category": "Subject"
+        },
+        {
+          "tag": "Land Grant",
+          "category": "Subject"
+        },
+        {
+          "tag": "Hate Crime",
+          "category": "Subject"
+        },
+        {
+          "tag": "Olympics",
+          "category": "Subject"
+        },
+        {
+          "tag": "NBC",
+          "category": "Subject"
+        },
+        {
+          "tag": "Law & Order Special Victims Unit",
+          "category": "Subject"
+        },
+        {
+          "tag": "Representation",
+          "category": "Subject"
+        },
+        {
+          "tag": "First Amendment",
+          "category": "Subject"
+        },
+        {
+          "tag": "Racial Profiling",
+          "category": "Subject"
+        },
+        {
+          "tag": "Civil Rights",
+          "category": "Subject"
+        },
+        {
+          "tag": "Gun Control",
+          "category": "Subject"
+        },
+        {
+          "tag": "Abortion",
+          "category": "Subject"
+        },
+        {
+          "tag": "History of Jazz",
+          "category": "Subject"
+        },
+        {
+          "tag": "Latin America",
+          "category": "Subject"
+        },
+        {
+          "tag": "Race",
+          "category": "Subject"
+        },
+        {
+          "tag": "Nahuatl",
+          "category": "Subject"
+        },
+        {
+          "tag": "Zapotec",
+          "category": "Subject"
+        },
+        {
+          "tag": "United States Caribbean Sea Frontier",
+          "category": "Subject"
+        },
+        {
+          "tag": "US Hispanics",
+          "category": "Communities"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Communities"
+        },
+        {
+          "tag": "LGBT Community",
+          "category": "Communities"
+        },
+        {
+          "tag": "1992",
+          "category": "Dates"
+        },
+        {
+          "tag": "2002",
+          "category": "Dates"
+        },
+        {
+          "tag": "2003",
+          "category": "Dates"
+        },
+        {
+          "category": "Uncategorized",
+          "tag": "Introduction"
+        },
+        {
+          "category": "Uncategorized",
+          "tag": "music"
+        },
+        {
+          "category": "Uncategorized",
+          "tag": "Program Outro"
+        },
+        {
+          "category": "People",
+          "tag": "Jon Ashcroft"
+        },
+        {
+          "category": "Geographic",
+          "tag": "Washington (DC)"
+        },
+        {
+          "category": "People",
+          "tag": "George Bush"
+        },
+        {
+          "category": "Geographic",
+          "tag": "Cuba"
+        },
+        {
+          "category": "People",
+          "tag": "Vicente Fox"
+        },
+        {
+          "category": "Organization",
+          "tag": "National Association of Latino-Elected Officials"
+        },
+        {
+          "category": "Geographic",
+          "tag": "Salt Lake City UT"
+        },
+        {
+          "category": "Geographic",
+          "tag": "Utah"
+        },
+        {
+          "category": "People",
+          "tag": "Marisa de Mayo"
+        },
+        {
+          "category": "People",
+          "tag": "Raul Yzaguirre"
+        },
+        {
+          "category": "People",
+          "tag": "Cecilia Muñoz"
+        },
+        {
+          "category": "Subject",
+          "tag": "Law and Order Special Victims Unit"
+        },
+        {
+          "category": "People",
+          "tag": "Lupe Saldana"
+        },
+        {
+          "category": "People",
+          "tag": "Dick Cheney"
+        },
+        {
+          "category": "Geographic",
+          "tag": "Missouri"
+        },
+        {
+          "category": "Geographic",
+          "tag": "St Louis Missouri"
+        },
+        {
+          "category": "Geographic",
+          "tag": "Columbia Missouri"
+        },
+        {
+          "category": "Organization",
+          "tag": "Institute for Puerto Rican Policy (US)"
+        },
+        {
+          "category": "Subject",
+          "tag": "Commercialization"
+        },
+        {
+          "category": "Subject",
+          "tag": "Latin Jazz"
+        }
+      ]
+    },
+    "created_at": "2026-04-06T23:52:27.698Z",
+    "updated_at": "2026-04-11T03:48:51.974Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "04d13d91-616f-4af0-af3e-3f8f86703c3f": {
+      "content": [],
+      "created_at": "2026-04-06T23:52:27.717Z",
+      "created_by": "martinaalvarez-lab",
+      "title": "Radio Program Latino USA: Conversations in Jazz and Literature",
+      "updated_at": "2026-04-06T23:52:27.717Z",
+      "updated_by": "martinaalvarez-lab",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "04d13d91-616f-4af0-af3e-3f8f86703c3f"
+  ]
+}
