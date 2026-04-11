@@ -2,10 +2,10 @@
   "audiovisual_files": {
     "59e3e1fb-4311-4039-8ee0-527e31a45b92": {
       "label": "Program 108",
-      "is_offline": false,
+      "is_offline": true,
       "file_type": "Audio",
-      "file_url": "https://dl.boxcloud.com/d/1/b1!jp7_WFfVuV2oJHI0HdTA-KYc77h8-POtBnU95B6bc55Xvt88QICXM18Vl5SznKmQQ-daKnGHL_kHN9oXbr1mgrpeakLoReuCUmaFGnrQlqb2MxyihJDjkJpcjtaXdKhszdXcmKb2VspCb-cjfKuAEx1FkuCjdtdWVGjrc31EM2sjo_sLhJQCh3u2ku9xNVbOMpKwDVfnJ0XCk1IvRwPa7mGwNfDvi0BulXo5-Hmkm6Aj5MiK7iZLYExCpOk1OZFItv8iEypgzzsvMs_NK9r9VMyseOZD94EuB4rtNp2d50SjH7RMVQkzdHtqvUi0TcqXQtXJYPhsDZmqCNTjRJW1MVGTp6OFc-L_j6u1uelqQ4Xv4rLzeEQHOOKUhraxqbBiYkwcKQAz-FwJoOu1q_WAd7I80t2FNCRGadWHOG3JczeL4gbbVI25EVG1U8T1oP9lda0LTXsZ6iTgtMdElrBQBCTCs4xo0fAmUJrgVF9G9NULuyVDTAA9zyzMR2QdDJa0qGvjSrudYGdsSFBi9e8mzwLLUHNuK2fXB_yZdmmpwAe--6I1lQqtT42BJIO0KNqyp9-EYAADIXeVlXS8qqzmtzsUpGhjNo1xkTgbx_9EdMHOZe1W-V4J1rfZLq9eu7OVaKu7zEDsnIU3REHbFNfItHJpLlsa-Dm-nmtiQheKx6RI_AfAw7Dzb6oHUq3g0dYFt34sWbUWQ1EmWKbCoiPqpX-mFIQG-dy-t6kNgOFuaNWXW6Phy7YX3mP-KqRUOY3J2TO7bejm0pkRdtURJmvHG4QkHoAav0725sH5xU3CjHycU1HT1qqYA8LpCxSl-GpnZovkplkgaRH7eGgpMoX2rd8EoOVDh8tzgswJhE0eR4tC0cGhBeETMYOMN__RWvDOw5-0lOIaYCyvd17e1ba5R7GPHbTVw0W98KP6Ff6INlWZCxo8IE2Q4vQI7aYK_fNi8PX2NyTj81E8VaB0pWixya2ZIX75eaxKN3RRibmlqBbmj5kesLtx6KVb96U_ARpDk0fSBh7gZkqU3qRbdA9nbBSRLUZotzJQ0iljsuTJRM97G9rZr5-BciG_OsNoI7cyl-Rvy9NBrVc5Y4EYNm9aEEpPr_QDiVmqdzCWUJDPGHeGfY4Z8Vk1CxDdhnHiTKWdMsiHvSiDGU1g_4GU6kajpwvrMno5EKpvrOit3ZfFAqb1W2dfWR3ZeYZNkgMt8378FXjL8QZk8FRQQL12hDrz2S4Zit0vkLlOwny2PJyd_Dt5ZYt0ucxTiscNaSFJZ1JhJKeDCvg0mL5ctuHqq2RL1o2Lre13wz2zBGiqqEjlpcZxSMGFpEW0PQ6XNeG4y6LfPkwSVaw4u_PH2TIJXBHuEmUSe_nqYfDyCPeVlsHjqZsdvM1h0oU61HNBsvJnVYqVVUd0-ZpEDi-XkyB9OKHQuUmWZYtvLy6mSPImJdPYuBusx59Kvg6Cd8pqLfHBe48nFDUndhrrk8Ay_AZnDERmYPps5w4Ghlz04TRIjsDhJdSPGHvULX_SLA3TrtzjW6QOdp_8LUHZ3WNTTJMjmYJv4WjY1CtGIu0DGwnUzyWq1Z_-wG3koa4./download",
-      "duration": 0,
+      "file_url": "https://utexas.box.com/shared/static/zw7fnfxm9mdict4oaz0vvbbj1bwqcwyt.mp3",
+      "duration": 1735,
       "caption_set": [],
       "set_sort": []
     }
@@ -28,6 +28,6 @@
   ],
   "created_at": "2026-04-07T17:07:21.436Z",
   "created_by": "martinaalvarez-lab",
-  "updated_at": "2026-04-07T17:07:21.436Z",
+  "updated_at": "2026-04-11T03:46:30.041Z",
   "updated_by": "martinaalvarez-lab"
 }
