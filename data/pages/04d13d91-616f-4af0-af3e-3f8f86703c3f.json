@@ -1,41 +1,6 @@
 {
   "content": [
     {
-      "type": "heading-two",
-      "children": [
-        {
-          "text": "In this 30 minute radio program, Maria Hinojosa hosts an edition covering a broad range of topics from the Bush Administration and its relationship with Latino communities, Latino Jazz, and Uruguayan literary works. The 2001 episode speaks on U.S.-Cuban relations, U.S.-Mexican relations, the misrepresentation of Puerto Rican communities, as well as the internal struggles that Latinos face within the U.S. concerning hate crimes. John Ashcroft’s confirmation as Attorney General was discussed as a major disappointment for Latino political organizations. A segment on Jazz calls for awareness of Latino representation within the music genre. Fernando Gonzales explores a Pan-Latin view on Jazz that serves as the future of music and as a soundtrack for the nation of immigrants. The show finishes with Eduardo Galeano who speaks on duality and overturned assumptions. The Open Veins of Latin American and Upside Down: A Primer for the Looking Glass World are the books discussed within the segment."
-        }
-      ]
-    },
-    {
-      "type": "heading-two",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "image",
-      "url": "https://i.scdn.co/image/ab67616d0000b273a70be67a6a9e6b14897cf6e1",
-      "caption": "Latin Jazz Artwork",
-      "children": [
-        {
-          "text": ""
-        }
-      ],
-      "align": "center"
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "paragraph",
       "children": [
         {
@@ -47,7 +12,7 @@
   "created_at": "2026-04-06T23:52:27.717Z",
   "created_by": "martinaalvarez-lab",
   "title": "Radio Program Latino USA: Conversations in Jazz and Literature",
-  "updated_at": "2026-04-21T20:00:50.925Z",
+  "updated_at": "2026-04-21T20:53:56.547Z",
   "updated_by": "martinaalvarez-lab",
   "autogenerate": {
     "enabled": false,
