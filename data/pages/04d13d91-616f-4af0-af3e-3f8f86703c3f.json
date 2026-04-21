@@ -4,7 +4,19 @@
       "type": "heading-two",
       "children": [
         {
-          "text": ""
+          "text": "Latino USA Radio Program",
+          "bold": true
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "heading-two",
+      "align": "center",
+      "children": [
+        {
+          "bold": true,
+          "text": "AVAnnotate Data Visualization"
         }
       ]
     },
@@ -61,7 +73,7 @@
   "created_at": "2026-04-06T23:52:27.717Z",
   "created_by": "martinaalvarez-lab",
   "title": "Radio Program Latino USA: Conversations in Jazz and Literature",
-  "updated_at": "2026-04-21T20:58:23.923Z",
+  "updated_at": "2026-04-21T20:59:30.253Z",
   "updated_by": "martinaalvarez-lab",
   "autogenerate": {
     "enabled": false,
