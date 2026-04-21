@@ -47,10 +47,10 @@
   "created_at": "2026-04-06T23:52:27.717Z",
   "created_by": "martinaalvarez-lab",
   "title": "Radio Program Latino USA: Conversations in Jazz and Literature",
-  "updated_at": "2026-04-21T20:54:44.584Z",
+  "updated_at": "2026-04-21T20:56:40.610Z",
   "updated_by": "martinaalvarez-lab",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   }
 }
