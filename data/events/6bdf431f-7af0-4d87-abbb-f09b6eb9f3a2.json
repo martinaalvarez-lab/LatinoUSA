@@ -1,0 +1,95 @@
+{
+  "audiovisual_files": {},
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Analysis",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "(Mis)representation, visibility, and cultural identity: This Radio Program from Latino USA covers a wide range of topics that encapsulate the early 2000s as it relates to the everyday challenges facing latinos as well as latino responses to the cultural scene of the time. Tagging places, subjects, and people orients us so we can identify trends in the data as it relates to this episode of Latino USA. For instance, if you search race, racial profiling, and representation, you can see a trend develops with how the media speaks about the latino community and how latinos are treated with violence and suspicion in real life. If you search for commercialization and culture in literature, you can observe how commodification seeps into our presentation of self, and how that is most relevant in our conversations about culture. Using this tool can help you better understand how data can bring us closer to insights regarding several different topics, especially in a program that has wide coverage. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The process of analyzing metadata took careful attention to specific information that may have been difficult to identify without the index. For example, many organization names were difficult to catch relying on the audio itself. Now, if you would like to investigate more about the National Council of La Raza or the League of United Latin American Citizens, you have a better reference for further research. Organizations and their impact on politics in the early 2000s is a rich research topic that may result in interesting findings. Because of these indexing tools, it is easier to isolate specific information mentioned only briefly as well as view how many times a specific topic was mentioned in the program. AVAnnotate helps visualize these trends under Tag Groups which segments the audio chronologically by Speaker, Organization, Geographic, Subject, Community, and Date terms. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In regards to Speaker tags, many career journalists participated in the radio program, speaking to several topics within segments ranging from politics to culture. Speaker tags could be helpful in reviewing the work of NPR team members and how their reporting has impacted the communities they serve. For instance Maria Hinojosa, the host of the show, has had a large impact on the community. Isolating names helps identify important information, especially if that name is recurring. Maria Hinojosa’s name shows up nineteen times, and similarly Maria Martin shows up twelve times. Having two strong Latina voices in radio speaks to the importance of representation, which is directly observable through the data. Such conclusions might not be noticeable immediately, but the data reveals findings like this through interactive visualizations."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In conclusion, AVAnnotate is a research tool that makes use of metadata to visualize important trends that might not be clear at first glance. Through the features on this site, especially the index, you can identify key information that may be of use in research. The transcript is also provided for proper context regarding the program. Latino USA is a wonderful resource that covers topics such as politics, literature, and music. I hope you find inspiration using AVAnnotate to explore the different ways metadata is used to illustrate people, places and subjects for the program. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Analysis",
+  "created_at": "2026-04-21T17:20:58.758Z",
+  "created_by": "martinaalvarez-lab",
+  "updated_at": "2026-04-21T17:20:58.758Z",
+  "updated_by": "martinaalvarez-lab"
+}
